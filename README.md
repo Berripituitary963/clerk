@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/clerk-icon.png" alt="Clerk" width="120" />
+</p>
+
 # Clerk
 
 **US federal court records. Permissionless. Pay-per-query.**
@@ -116,3 +120,31 @@ results = client.search("Binance", limit=5)
 ## License
 
 MIT
+
+---
+
+## Links
+
+- Product: [clerk.solvrlabs.ai](https://clerk.solvrlabs.ai)
+- API Docs: [clerk.solvrlabs.ai/docs](https://clerk.solvrlabs.ai/docs)
+- API Reference (in this repo): [ENDPOINTS.md](./ENDPOINTS.md)
+- X: [@agent_clerk](https://x.com/agent_clerk)
+- Parent project: [Solvr](https://solvrbot.com) · [@solvrbot](https://x.com/solvrbot)
+
+## Support the project
+
+Hold $CLERK on Base for free unlimited queries, or trade on DEXScreener.
+
+`0x20EabA9d6818529cfFFA2c1C63B97A02a0049bA3`
+
+[DEXScreener](https://dexscreener.com/base/0x4bacc9d57e57b8361d5d31e83daef1ddae57d2992227a5ae7fefa09c19f2ab19)
+
+---
+
+<p align="center">
+  <img src="./assets/clerk-full.png" alt="Clerk — Court Records, On Demand" width="320" />
+</p>
+
+<p align="center">
+  <em>Clerk — The Permissionless Legal Data Layer for the Agent Economy.</em>
+</p>
