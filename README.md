@@ -4,11 +4,11 @@
 
 # Clerk
 
-**US federal court records. Permissionless. Pay-per-query.**
+**The AI-native legal data layer for the agentic economy.**
 
-500M+ cases · $0.001 USDC per query via x402 on Base · 1B+ $CLERK = free unlimited
+Clerk provides permissionless access to **500M+ US federal court records** across **94 federal courts** through **11 data endpoints**. Built on Base, it eliminates subscriptions and API keys by using **x402 micropayments at just $0.001 per query in USDC**. Stack legal intelligence into any AI agent workflow.
 
-Live at [clerk.solvrlabs.ai](https://clerk.solvrlabs.ai) · Built by [Solvr Labs](https://solvrbot.com)
+Live at [clerk.solvrlabs.ai](https://clerk.solvrlabs.ai) · Built by [Solvr Labs](https://solvrbot.com) · 1B+ $CLERK = free unlimited
 
 ---
 

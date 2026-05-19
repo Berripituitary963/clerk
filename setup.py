@@ -8,7 +8,7 @@ LONG_DESCRIPTION = (ROOT / "README.md").read_text(encoding="utf-8")
 setup(
     name="clerk-api",
     version="0.1.0",
-    description="Python SDK for Clerk — US federal court records via x402 on Base",
+    description="AI-native legal data layer for the agentic economy. 500M+ US federal court records via x402 on Base.",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
     author="Solvr Labs",
